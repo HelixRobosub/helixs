@@ -34,7 +34,7 @@ const products = [
   },
   {
     id: 3,
-    title: "Customize A Water Bottle",
+    title: "Custom Wallet",
     price: 10,
     colors: [
       {
@@ -49,7 +49,7 @@ const products = [
   },
   {
     id: 4,
-    title: "Custom Leather Wallet",
+    title: "Custom Notebook",
     price: 30,
     colors: [
       {
