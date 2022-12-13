@@ -35,7 +35,7 @@ const products = [
   {
     id: 3,
     title: "Custom Wallet",
-    price: 10,
+    price: 30,
     colors: [
       {
         code: "lightgray",
