@@ -9,11 +9,11 @@ const products = [
     colors: [
       {
         code: "black",
-        img: "./img/farme with.png",
+        img: "./img/new frame with smaller.png",
       },
       {
         code: "darkblue",
-        img: "./img/farme with.png",
+        img: "./img/new frame with smaller.png",
       },
     ],
   },
@@ -24,11 +24,11 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "./img/glass cup with.png",
+        img: "./img/new bottle with.png",
       },
       {
         code: "green",
-        img: "./img/glass cup with.png",
+        img: "./img/new bottle with.png",
       },
     ],
   },
@@ -39,11 +39,11 @@ const products = [
     colors: [
       {
         code: "lightgray",
-        img: "./img/wallet with.png",
+        img: "./img/newwalletwith.png",
       },
       {
         code: "green",
-        img: "./img/wallet with.png",
+        img: "./img/newwalletwith.png",
       },
     ],
   },
@@ -54,11 +54,11 @@ const products = [
     colors: [
       {
         code: "black",
-        img: "./img/huh.png",
+        img: "./img/new notebook with.png",
       },
       {
         code: "lightgray",
-        img: "./img/huh.png",
+        img: "./img/new notebook with.png",
       },
     ],
   },
@@ -69,11 +69,11 @@ const products = [
     colors: [
       {
         code: "gray",
-        img: "./img/notebook with.png",
+        img: "./img/new notebook with.png",
       },
       {
         code: "black",
-        img: "./img/notebook with.png",
+        img: "./img/new notebook with.png",
       },
     ],
   },
